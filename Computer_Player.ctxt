@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Computer_Player
+comment0.text=\r\n\ This\ class\ is\ a\ computer\ play\ thatll\ play\r\n\ against\ the\ user.\r\n\ the\ function\ in\ this\ class\ will\ help\ decide\ which\ to\ pick\r\n\ amonth\ rock(1),\ paper(2),\ scissors(3)\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getInput()
+numComments=2

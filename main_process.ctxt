@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=main_process
+comment0.text=\r\n\ This\ is\ the\ main\ process\ of\ the\ rock\ paper\ scissor\r\n\ this\ will\ process\ the\ user\ and\ computer\ picks\r\n\ this\ will\ figure\ out\ who\ wins\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=who\ s
+comment1.target=void\ display(java.lang.String,\ int)
+comment2.params=userSelection\ computerSelection
+comment2.target=int\ compareSelections(int,\ int)
+numComments=3

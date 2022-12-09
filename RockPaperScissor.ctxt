@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RockPaperScissor
+comment0.text=\r\n\ this\ gets\ the\ username\r\n\ this\ tells\ who\ wons\ from\ processing\ wh\ wins\ in\ the\ main_process\r\n\ this\ tells\ the\ score\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RockPaperScissor()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=
+comment4.target=void\ getplayerName()
+comment5.params=
+comment5.target=void\ printStats()
+numComments=6
