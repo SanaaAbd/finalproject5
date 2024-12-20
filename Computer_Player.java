@@ -1,3 +1,5 @@
+package finalproject5;
+
 import java.util.Random;
 /**
  * This class is a computer play thatll play

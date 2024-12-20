@@ -1,3 +1,5 @@
+package finalproject5;
+
 import java.util.Scanner;
 /**
  * this is the player(you) class

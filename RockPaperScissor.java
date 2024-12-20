@@ -1,3 +1,5 @@
+package finalproject5;
+
 
 /**
  * this gets the username
